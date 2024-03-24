@@ -35,9 +35,7 @@
 
 
             <div class="">
-                {{-- <img src="https://laravel.com/assets/img/welcome/docs-dark.svg" alt="Laravel documentation screenshot"
-                    class="hidden aspect-video  rounded-[10px] object-top object-cover drop-shadow-[0px_4px_34px_rgba(0,0,0,0.25)] dark:block" />
-             --}}
+
 
              <img src="{{asset('images/IMG_9959_11zon.png')}}" width=" 400px" class="  rounded-full "  alt="">
 
